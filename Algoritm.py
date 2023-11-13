@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import random
 import time
 def bubble_sort(arr):
